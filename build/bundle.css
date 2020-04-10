@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');.svelte-1hyaq7q{font-family:'Do Hyeon', sans-serif}main.svelte-1hyaq7q{text-align:center;padding:1em;max-width:240px;margin:0 auto}@media(min-width: 640px){main.svelte-1hyaq7q{max-width:none}}
+nav.svelte-lvz97r{border:2px solid black;border-radius:1rem;display:flex;flex-direction:row;justify-content:space-between;align-items:center;padding:1rem}
+form.svelte-9p9gm8{padding:1rem;width:50%;display:flex;flex-direction:column;justify-content:flex-start}input.svelte-9p9gm8{border:.1rem solid black;width:60%;height:3rem}.notes-input.svelte-9p9gm8{height:6rem}label.svelte-9p9gm8{width:60%;font-size:1.5rem}button.svelte-9p9gm8{width:60%;cursor:pointer;border-radius:5%;background-color:lightcoral
+  }
+.card-container.svelte-ggctm5{border:3px solid green;padding:2rem;display:flex;flex-direction:column;justify-content:space-around;align-content:center}.event-card.svelte-ggctm5{border:3px solid yellow;width:75%;margin:1rem}
+
+/*# sourceMappingURL=bundle.css.map */
