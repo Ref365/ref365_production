@@ -1,1 +1,1 @@
-<?php header( 'Location: https://theref365.herokuapp.com/' ) ;  ?>
+<?php header( 'Location: /index.html' ) ;  ?>
